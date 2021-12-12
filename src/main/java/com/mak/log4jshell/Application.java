@@ -1,4 +1,4 @@
-package application.code;
+package com.mak.log4jshell;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

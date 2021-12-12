@@ -32,7 +32,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>application.code.Application</mainClass>
+                            <mainClass>com.mak.log4jshell.Application</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
